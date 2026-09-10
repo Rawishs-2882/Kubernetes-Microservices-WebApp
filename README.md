@@ -26,7 +26,7 @@ Each service can be scaled independently based on load, rather than scaling the 
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-orbit.wontory.dev/api?title=Microservices&tech=docker,kubernetes&size=420&duration=20" alt="tech stack orbit" width="420" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/Kubernetes-Microservices-WebApp/main/assets/tech-orbit.svg" alt="tech stack orbit" width="380" />
 </div>
 
 Docker for containerization, Kubernetes for orchestration and service discovery, and REST APIs for communication between microservices.
